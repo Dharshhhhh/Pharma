@@ -27,8 +27,8 @@ Publish the website in the LocalHost.
 
 ## PROGRAM :
 ```
-NAME:KISHORE.B
-REF.NO:212222110020
+NAME:DHARSHINI.R
+REF.NO:212224220023
 ```
 ### pharmacy.html
 ```
@@ -94,7 +94,7 @@ REF.NO:212222110020
 <footer class="bg-dark text-white mt-5 py-4">
   <div class="container text-center">
     <p>&copy; 2024 Pharmacy. All rights reserved.</p><br>
-    <p>Developed by Kishore.B (212222110020)</p>
+    <p>Developed by DHARSHINI.R (212224220023)</p>
   </div>
 </footer>
 
@@ -443,7 +443,7 @@ REF.NO:212222110020
       </div>
     </div>
   </div>
-  <center>Developed By Kishore.b (212222110020)</center>
+  <center>Developed By DHARSHINI.R (212224220023) </center>
 </footer>
 
 <!-- Bootstrap JS and dependencies -->
@@ -456,12 +456,12 @@ REF.NO:212222110020
 ```
 ## OUTPUT:
 ### pharmacy.html
-![Screenshot 2024-05-11 185047](https://github.com/KSIHORE/Pharma/assets/151484879/4ca4992c-ab40-4866-abb1-f5cf3676e8de)
+![Screenshot 2024-12-26 191749](https://github.com/user-attachments/assets/f3494f8d-2b80-475e-84ae-86a83dbc3932)
 ### ABOUTP.html
 ![Screenshot 2024-05-11 185119](https://github.com/KSIHORE/Pharma/assets/151484879/51f3cb3f-62a3-4098-a6f1-d86d26c11ec1)
 ### service.html
 ![Screenshot 2024-05-11 185139](https://github.com/KSIHORE/Pharma/assets/151484879/774e3029-3da0-4021-8735-e443d697048b)
 ### contact.html
-![Screenshot 2024-05-11 185155](https://github.com/KSIHORE/Pharma/assets/151484879/55f60500-0859-40d7-a080-c547e1b8dc90)
+![Screenshot (48)](https://github.com/user-attachments/assets/c5f34555-554c-467d-be97-741f073e8da2)
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
